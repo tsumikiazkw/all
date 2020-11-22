@@ -1,2 +1,2 @@
-# all
+
 HTMLやCSSの練習
